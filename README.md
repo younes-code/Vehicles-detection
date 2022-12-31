@@ -10,6 +10,6 @@ The code contains the following steps :
     - Relevant Modules and functions 
     - Setting up arguments for inference
   
-2. Running inference on single **image**.
+2. Running inference on single **image**. ( you can find the image used in the 
 3. Runninig inference on **video** .
 4. Real-time detection using **webcam**.
