@@ -14,4 +14,4 @@ The code contains the following steps :
 3. Runninig inference on **video** ( The video used and the result is in : "Test data and results/Videos/Test_vid.mp4" ).
 4. Real-time detection using **webcam**.
 
-![alt text](https://github.com/younes-code/DRIVER-ASSISTANCE-SYSTEM/blob/main/Test data and results/Images/Output_img.png)
+![alt text](https://github.com/younes-code/DRIVER-ASSISTANCE-SYSTEM/blob/main/Test data and results/Images/Output_img.png =250x250)
